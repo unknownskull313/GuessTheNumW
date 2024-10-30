@@ -1,0 +1,30 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin: 50px;
+}
+
+h1 {
+    color: darkblue; 
+}
+
+#result {
+    margin: 20px;
+    font-weight: bold;
+}
+
+.correct {
+    color: green; 
+}
+
+.too-low {
+    color: orange; 
+}
+
+.too-high {
+    color: red; 
+}
+
+button {
+    margin-top: 20px;
+}
